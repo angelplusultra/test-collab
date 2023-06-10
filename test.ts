@@ -4,10 +4,12 @@ const obj = {
   thing: 1,
   thign2: 2,
   thign3: 3,
-  bread: 'up',
-  cap: 'none',
+  bread: "up",
+  cap: "none",
   bread: "sourdough",
   cheese: "american",
   veggie: "tomato",
-  conditment: 'horseradish spicy mustard'
+  conditment: 'horseradish spicy mustard',
+  jeans: "levis",
+  shirt: "hanes",
 };
